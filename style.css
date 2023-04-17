@@ -1,0 +1,25 @@
+body{
+    margin-left: 40%;
+    font-size: x-large;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0%;
+}
+
+ul li {
+    width: 30%;
+    margin-top: 5px;
+    text-align: center;
+    background-color: rgb(248, 210, 157);
+    color: white;
+}
+
+ul li:hover{
+    border: red 1px solid;
+}
+
+ul li:focus{
+    border: red 1px solid;
+}
