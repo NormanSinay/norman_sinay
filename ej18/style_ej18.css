@@ -1,0 +1,53 @@
+body{
+    width: 100%;
+    height: 100%;
+    font-size: 150px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial;
+}
+
+.tUno {
+    background: linear-gradient(to left, rgb(155, 155, 218) 20%, rgb(238, 170, 170) 20%, rgb(101, 61, 61) 60%, rgb(247, 247, 87) 40%, rgb(25, 174, 223) 60%);
+    background-size: 1000%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: cambiocolor 10s linear infinite;
+}
+
+.tDos {
+    background: linear-gradient(to left, rgb(230, 5, 5) 20%, brown 20%, rgb(237, 92, 237) 40%, rgb(38, 38, 103) 40%, rgb(106, 11, 11) 60%);
+    background-size: 1000%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: cambiocolor 10s linear infinite;
+}
+
+.tTres {
+    background: linear-gradient(to left, rgb(255, 6, 6) 20%, rgb(2, 2, 65) 20%, rgb(245, 183, 183) 40%, rgb(83, 83, 24) 40%, green 60%);
+    background-size: 1000%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: cambiocolor 10s linear infinite;
+}
+
+.tCuatro {
+    background: linear-gradient(to left, rgb(59, 197, 170) 20%, blue 20%, brown 40%, red 40%, rgb(78, 53, 7) 60%);
+    background-size: 1000%;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: cambiocolor 10s linear infinite;
+}
+
+@keyframes cambiocolor {
+    0% {
+        background-position: 0%;
+    }
+    100% {
+        background-position: 200%;
+    }
+}

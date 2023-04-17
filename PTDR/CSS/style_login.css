@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+}
+
+header{
+    width: 100%;
+    height: 90px;
+    background-image: url(/PTDR/IMG/pexels-gradienta-7130557.jpg);
+}
+
+.Ecabezado{
+    width: 95%;
+    height: 90px;
+    margin: auto;
+}
+
+.logo{
+    width: 70%;
+    height: 90px;
+    margin-top: -9px;
+}
+
+.logo img{
+    height: 100%;
+    margin-left: 65%;   
+}
+
+main {
+    width: 100%;
+    height: 665px;
+}
+
+.Login {
+    width: 80%;
+    height: 650px;
+    margin: auto;
+    text-align: center;
+    margin-top: 1%;
+
+}
+
+.videoP {
+    width: 50%;
+    height: 600px;
+    margin-top: 2%;
+    float: left;
+}
+
+.videoP video{
+    margin-top: 2%;
+    width: 50%;
+    border:3px solid rgb(173, 109, 109);
+   border-radius: 22px;
+}
+
+.txtP {
+    width: 44%;
+    height: 600px;
+    margin-top: 2%;
+    margin-left: 2%;
+    float: left;
+    border:3px solid rgb(173, 109, 109);
+   border-radius:22px;
+}
+
+.titulo h1 {
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 15%;
+}
+
+.credenciales {
+    width: 80%;
+    height: 250px;
+    margin-top: 5%;
+    margin-left: 10%;
+    float: left;
+}
+
+form{
+    width: 80%;
+    margin-top: 5%;
+    text-align: left;
+    margin-left: 11%;
+    font-size: xx-large;
+}
+
+input{
+    font-size: smaller;
+}
+
+.accesoL{
+    width: 50%;
+    height: 70px;
+    margin-top: 35%;
+    margin-left: 24%;
+}
+
+.accesoL p{
+    margin-top: 2%;
+}
+
+.accesoL button{
+    font-size: xx-large;
+    margin-top: 15px;
+    background-image: url(/PTDR/IMG/pexels-gradienta-7130557.jpg);
+    border: #faebd7;
+}
+
+footer {
+    width: 100%;
+    height: 30px;
+    padding-top: 8px;
+    background-image: url(/PTDR/IMG/pexels-gradienta-7130557.jpg);
+    text-align: center;
+}

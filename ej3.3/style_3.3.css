@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+}
+
+.contenedor{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+.columna1{
+    width: 25%;
+    float: left;
+}
+
+.columna2{
+    width: 75%;
+    float: right;
+}
+
+.columna2 .conte{
+    color: black;
+    width: 100%;
+    float: left;
+}
+
+.columna2 .segundo .conte ul{
+    display: inline;
+    list-style: none;
+}
+
+.columna2 .segundo .conte ul li{
+    float: left;
+    width: 33.33%;
+}
+
+.columna2 .segundo .conte ul .pri{
+    margin-top: -19px;
+}

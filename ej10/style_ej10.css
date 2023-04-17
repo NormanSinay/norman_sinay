@@ -1,0 +1,39 @@
+body{
+    margin-left: 42%;
+}
+
+.teal{
+    color: teal;
+}
+
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.orange{
+    color: orange;
+}
+.purple{
+    color: purple;
+}
+.olive{
+    color: olive;
+}
+.fuchsia{
+    color: fuchsia;
+}
+.green{
+    color: green;
+}
+
+.tdRed{
+    background-color: red;
+}
+.tdGreem{
+    background-color: green;
+}
+.tdBlue{
+    background-color: blue;
+}

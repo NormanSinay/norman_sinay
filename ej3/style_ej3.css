@@ -1,0 +1,35 @@
+*{
+    margin-left: 6%;
+}
+
+main {
+    width: 960px;
+    align-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.columna1 {
+    width: 260px;
+    float: left;
+}
+
+.columna2 {
+    width: 700px;
+}
+
+.titulocolum3 {
+    margin-left: 260px;
+}
+
+.tabla2 {
+    margin-left: 260px;
+}
+
+.tabla2 td {
+    width: 32%;
+    float: left;
+    list-style-type: none;
+}

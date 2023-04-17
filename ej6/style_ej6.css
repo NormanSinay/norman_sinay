@@ -1,0 +1,25 @@
+*{
+    margin-left: 13%;
+}
+
+li{
+    list-style: none;
+    width:100px;
+    background-color: blue;
+    text-align: center;
+    margin-top:1.5px;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+    
+}
+
+li:hover{
+    border:red 2px solid;
+}
+
+li:focus-within{
+    border:red 2px solid;
+}

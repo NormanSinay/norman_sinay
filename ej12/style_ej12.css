@@ -1,0 +1,49 @@
+body{
+    margin-left: 39%;
+}
+
+table {
+    border: 2px double black;
+}
+
+tr:nth-child(2n) {
+    background-color: rgb(236, 233, 185);
+}
+
+.table tr:hover {
+    background-color: yellow;
+}
+
+.table th {
+    border: 2px solid black;
+}
+
+.table td {
+    border: 2px solid black;
+}
+
+.table th {
+    font-weight: bold;
+    background-color: rgb(92, 226, 143);
+}
+
+img {
+    width: 15px;
+    margin-left: 10px;
+}
+
+.table tr .euro {
+    background-color: rgb(172, 220, 240);
+}
+
+.table tr .dolar {
+    background-color: rgb(172, 220, 240);
+}
+
+.table tr .libra {
+    background-color: rgb(172, 220, 240);
+}
+
+.table tr .yen {
+    background-color: rgb(172, 220, 240);
+}

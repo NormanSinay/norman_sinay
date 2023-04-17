@@ -1,0 +1,149 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+div {
+    width: 180px;
+    height: 180px;
+    margin: 15px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+div p {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.red {
+    background-color: rgb(239, 1, 1);
+    transition: all 0.5s linear;
+}
+
+.red:hover {
+    background-color: #C0392B;
+    transition: all 0.5s linear;
+}
+
+.purple {
+    background-color: #9B59B6;
+    transition: all 0.5s linear;
+}
+
+.purple:hover {
+    font-size: 50px;
+    transition: all 0.5s linear;
+}
+
+.blue {
+    background-color: #2980B9;
+    transition: all 0.5s linear;
+    color: white;
+}
+
+.blue:hover {
+    color: black;
+    transition: all 0.5s linear;
+}
+
+.celeste {
+    background-color: #3498DB;
+    transition: all 0.5s linear;
+}
+
+.celeste:hover {
+    line-height: 500px;
+    transition: all 0.5s linear;
+}
+
+.verde {
+    background-color: #17A589;
+    transition: all 0.5s linear;
+}
+
+.verde:hover {
+    border-radius: 20%;
+    transition: all 0.5s linear;
+}
+
+
+.amarillo {
+    background-color: #F1C40F;
+    transition: all 0.5s linear;
+}
+
+.amarillo:hover {
+    box-shadow: 10px 10px 5px grey;
+    transition: all 0.5s linear;
+}
+
+.naranja {
+    background-color: #E67E22;
+    transition: all 0.5s linear;
+}
+
+.naranja:hover {
+    opacity: 0.5;
+    transition: all 0.5s linear;
+}
+
+.gris {
+    background-color: grey;
+    transition: all 0.5s linear;
+}
+
+.gris:hover {
+    border: 20px solid black;
+    transition: all 0.5s linear;
+}
+
+.gris-oscuro {
+    background-color: #2C3E50;
+    transition: all 0.5s linear;
+}
+
+.gris-oscuro:hover {
+    margin: 100px;
+    transition: all 0.5s linear;
+}
+
+
+.negro {
+    background-color: black;
+    transition: all 0.5s linear;
+}
+
+.negro:hover {
+    padding: 50px;
+    transition: all 0.5s linear;
+}
+
+.cambioUno {
+    background-color: rgb(0, 128, 105);
+    transition: all 0.5s linear;
+}
+
+.cambioUno:hover {
+    background-image: linear-gradient(to right, rgb(163, 233, 163) 10%, white 60%, rgb(233, 215, 23));
+    transition: all 0.5s linear;
+}
+
+.cambioDos {
+    background-color: papayawhip;
+    transition: all 0.5s linear;
+    color: black;
+}
+
+.cambioDos:hover {
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+    font-size: small;
+    color: black;
+    transition: all 0.5s linear;
+}

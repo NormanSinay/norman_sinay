@@ -1,0 +1,25 @@
+*{
+    margin-left: 15%;
+}
+
+.lUno {
+    list-style-type: none;
+}
+
+.lDos{
+list-style-type: circle;
+}
+
+.lTres {
+list-style-type: square;
+
+}
+
+.lCuatro{
+list-style-type: lower-roman;
+}
+
+.lCinco {
+    list-style-type: lower-greek;
+
+}

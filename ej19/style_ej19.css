@@ -1,0 +1,58 @@
+body {
+    background-color: rgba(0, 0, 0, 0.527);
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    color: rgb(224, 217, 217);
+    font-size: 100px;
+    text-align: center;
+    margin-top: 300px;
+    font-family: comic sans ms;
+}
+
+div span {
+    display: inline-block;
+    animation: saltoKF 1s ease-in-out infinite;
+    text-shadow: 0px 100px 15px white ;
+}
+
+div span:nth-child(1) {
+    animation-delay: 0.1s;
+}
+
+div span:nth-child(2) {
+    animation-delay: 0.2s;
+}
+
+div span:nth-child(3) {
+    animation-delay: 0.3s;
+}
+
+div span:nth-child(4) {
+    animation-delay: 0.4s;
+}
+
+div span:nth-child(5) {
+    animation-delay: 0.5s;
+}
+
+div span:nth-child(6) {
+    animation-delay: 0.6s;
+}
+
+div span:nth-child(7) {
+    animation-delay: 0.7s;
+}
+
+@keyframes saltoKF {
+  0%,40%,100% {
+    transform: translateY(0)
+  }
+  20% {
+    transform: translateY(-20px)
+  }
+}
+

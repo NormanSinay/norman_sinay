@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+}
+
+header{
+    width: 100%;
+    height: 80px;
+    background-image: url(/PTDR/IMG/pexels-gradienta-7130557.jpg);
+}
+
+.Ecabezado{
+    width: 95%;
+    height: 80px;
+    margin: auto;
+}
+
+.logo{
+    width: 15%;
+    height: 90px;
+    float: left;
+    margin-top: -9px;
+}
+
+.logo img{
+    height: 100%;
+    margin-left: 65px;   
+}
+
+nav{
+    width: 55%;
+    height: 80px;
+    float: left;
+    padding-top: 15px;
+    box-sizing: border-box;
+    font-size: 40px;
+    text-align: center;
+}
+
+nav ul li{
+    display: inline;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(172, 98, 2);
+}
+
+.boton{
+    width: 30%;
+    height: 80px;
+    float: left;
+    text-align: center;
+}
+
+.boton button{
+    margin-top: 15px;
+    padding: 10px;
+    background-color: transparent;
+    border: none;
+}
+
+main {
+    width: 100%;
+    height: 700px;
+}
+
+.compra {
+    width: 80%;
+    height: 650px;
+    margin: auto;
+    text-align: center;
+    margin-top: 1%;
+}
+
+.producto {
+    width: 48%;
+    height: 600px;
+    margin-top: 2%;
+    float: left;
+    border:3px solid rgb(173, 109, 109);
+}
+
+.txtP {
+    width: 50%;
+    height: 600px;
+    margin-top: 2%;
+    float: left;
+    border:3px solid rgb(173, 109, 109);
+}
+
+.titulo h1 {
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 15%;
+}
+
+.credenciales {
+    width: 90%;
+    height: 550px;
+    margin-top: 4%;
+    margin-left: 5%;
+    float: left;
+    border:3px solid rgb(173, 109, 109);
+}
+
+.detalle{
+    margin-top: 15%;
+}
+
+.detalle h1{
+    text-align: left;
+    margin-left: 50px;
+    font-size: xx-large;
+}
+
+.detalle img{
+    margin-top: -35px;
+    margin-right: 50px;
+    float: right;
+    width: 30px;
+}
+
+.dCompra{
+    width: 80%;
+    margin-top: 70px;
+    margin-left: 10%;
+}
+
+.dCompra p{
+    text-align: left;
+    font-size: x-large;
+}
+
+.total h1{
+    margin-top: 60px;
+    margin-left: 70px;
+    float: left;
+    font-size: xx-large;
+}
+
+.total p{
+    margin-top: 60px;
+    margin-right: 70px;
+    float: right;
+    font-size: x-large;
+}
+
+.bCompra{
+    width: 80%;
+    margin-top: 110px;
+    margin-left: 10%;
+}
+
+.bCompra button{
+    background-image: url(/PTDR/IMG/pexels-gradienta-7130557.jpg);
+    border:3px solid rgb(173, 109, 109);
+    font-size: xx-large;
+}
+
+.credenciales2 {
+    width: 90%;
+    height: 550px;
+    margin-top: 4%;
+    margin-left: 5%;
+    float: left;
+}
+
+.imgCr{
+    width: 40%;
+    margin-top: 15%;
+}
+
+.imgCr img{
+    width: 150px;
+}
+
+.descripcion{
+    width: 60%;
+    height: 130px;
+    float: right;
+    margin-top: -130px;
+}
+
+.descripcion p{
+    text-align: left;
+    font-size: small;
+}
+
+.imgCr2{
+    width: 40%;
+    margin-top: 15%;
+}
+
+.imgCr2 img{
+    width: 150px;
+}
+
+footer {
+    width: 100%;
+    height: 30px;
+    padding-top: 8px;
+    background-image: url(/PTDR/IMG/pexels-gradienta-7130557.jpg);
+    text-align: center;
+}

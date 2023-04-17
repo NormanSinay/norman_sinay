@@ -1,0 +1,38 @@
+main{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+legend{
+    font-weight: bolder;
+}
+label{
+    font-weight: bolder;
+}
+
+.form label{
+    display: block;   
+}
+
+input:hover{
+    background-color: red;
+}
+input:focus{
+    background-color: yellow;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    display: block;
+    margin: 0 auto;
+    font-size: 20px;
+}
