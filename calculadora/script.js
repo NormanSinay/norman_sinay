@@ -1,5 +1,3 @@
-alert("Bienvenido para utilizar la calculadora debe de presionar el botón ON")
-
 document.getElementById("other").style.color = "black"
 document.addEventListener("DOMContentLoaded", function () {
     var btOn = document.getElementById("btOn")
@@ -125,6 +123,5 @@ document.addEventListener("DOMContentLoaded", function () {
         } else {
             console.error('Signo aritmético no reconocido');
         }
-        operacionTag.textContent = `${numero1} ${signo} ${numero2} = ${resultado}`; // Actualizar el contenido de la etiqueta
-    }
+        operacionTag.textContent = `${numero1} ${signo} ${numero2} = ${resultado}`; 
 })
