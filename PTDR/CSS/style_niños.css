@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+}
+
+header{
+    width: 100%;
+    height: 80px;
+    background-image: url(/PTDR/IMG/pexels-gradienta-7130557.jpg);
+}
+
+.Ecabezado{
+    width: 95%;
+    height: 80px;
+    margin: auto;
+}
+
+.logo{
+    width: 15%;
+    height: 90px;
+    float: left;
+    margin-top: -9px;
+}
+
+.logo img{
+    height: 100%;
+    margin-left: 65px;   
+}
+
+nav{
+    width: 55%;
+    height: 80px;
+    float: left;
+    padding-top: 15px;
+    box-sizing: border-box;
+    font-size: 40px;
+    text-align: center;
+}
+
+nav ul li{
+    display: inline;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(172, 98, 2);
+}
+
+.boton{
+    width: 30%;
+    height: 80px;
+    float: left;
+    text-align: center;
+}
+
+.boton button{
+    margin-top: 15px;
+    padding: 10px;
+    background-color: transparent;
+    border: none;
+}
+
+main {
+    width: 100%;
+    height: 1700px;
+}
+
+.VBienvenida {
+    width: 80%;
+    height: 60px;
+    margin: auto;
+}
+
+.comboB {
+    padding-top: 15px;
+}
+
+.Ropa {
+    width: 80%;
+    height: 507px;
+    margin: auto;
+}
+
+.ropa1 {
+    width: 33.33%;
+    float: left;
+    padding-top: 10px;
+}
+
+.ropa1 img {
+    width: 90%;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.textr1 {
+    padding-left: 20px;
+    margin: 20px;
+    width: 50%;
+}
+
+.botonr1 {
+    width: 40%;
+    margin-top: -85px;
+    float: right;
+}
+
+.botonr1 button{
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.ropa2 {
+    width: 33.33%;
+    float: left;
+    padding-top: 10px;
+}
+
+.ropa2 img {
+    width: 90%;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.textr2 {
+    padding-left: 20px;
+    margin: 20px;
+    width: 50%;
+}
+
+.botonr2 {
+    width: 40%;
+    margin-top: -85px;
+    float: right;
+    text-align: center;
+}
+
+.botonr2 button{
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.ropa3 {
+    width: 33.33%;
+    float: left;
+    padding-top: 10px;
+}
+
+.ropa3 img {
+    width: 90%;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.textr3 {
+    padding-left: 20px;
+    margin: 20px;
+    width: 50%;
+}
+
+.botonr3 {
+    width: 40%;
+    margin-top: -85px;
+    float: right;
+    text-align: center;
+}
+
+.botonr3 button{
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.Promocion {
+    width: 80%;
+    height: 540px;
+    margin: auto;
+    text-align: center;
+}
+
+.Promocion video{
+    margin: auto;
+    width: 80%;
+    display: block;
+}
+.imgP {
+    width: 65%;
+    height: 450px;
+    float: left;
+}
+
+.imgP img {
+    width: 90%;
+    margin-top: 9.5%;
+}
+
+.txtP {
+    width: 35%;
+    height: 450px;
+    float: left;
+}
+
+.txtP p {
+    text-align: center;
+    margin-top: 40%;
+}
+
+.accionC{
+    margin-top: 25px;
+    text-align: center;
+}
+
+.accionC button{
+    font-size: xx-large;
+    background-image: url(/PTDR/IMG/pexels-gradienta-7130557.jpg);
+    border: #faebd7;
+    
+}
+
+footer {
+    width: 100%;
+    height: 30px;
+    padding-top: 8px;
+    background-image: url(/PTDR/IMG/pexels-gradienta-7130557.jpg);
+    text-align: center;
+}
