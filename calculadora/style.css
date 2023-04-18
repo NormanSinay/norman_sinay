@@ -1,0 +1,74 @@
+html {
+    box-sizing: border-box;
+    height: 99%;
+}
+
+* {
+    color: rgb(252, 110, 110);
+    font-size: 25px;
+}
+
+p {
+    font-size: 25px;
+    margin-right: 35px;
+    margin-left: 35px;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+    border-radius: 5px;
+    border-color: rgb(22, 118, 9);
+    width: 60px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.all_section {
+    border: solid 1px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.pantalaR {
+    text-align: right;
+    padding: 2px;
+    border-radius: 300px;
+    border: solid 1px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    height: 60px;
+
+}
+
+.all_btn {
+    border: solid 1px;
+    margin-bottom: 10px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.filaB {
+    width: 235px;
+    height: auto;
+    border: 3px;
+}
+
+.verde_button {
+    background-color: rgb(41, 127, 41);
+}
+
+.botonRojo {
+    background-color: rgb(165, 37, 37);
+}
+
+body {
+    align-items: center;
+    display: flex;
+    font-family: 'Dosis', sans-serif;
+    font-display: swap;
+    height: inherit;
+    align-items: center;
+    justify-content: center;
+}
