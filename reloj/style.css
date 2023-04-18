@@ -1,0 +1,12 @@
+* {
+    font-size: 30px;
+    text-align: center;
+}
+
+body {
+    margin-top: 30px;
+    margin-left: 35%;
+    width: 550px;
+    height: 705px;
+    border-style: dashed;
+}
