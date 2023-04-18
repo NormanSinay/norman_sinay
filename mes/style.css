@@ -1,0 +1,27 @@
+* {
+    background-color: #fddada;
+    font-family: Arial, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#fecha {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+#hora {
+    font-size: 96px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#ampm {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 10px;
+}
